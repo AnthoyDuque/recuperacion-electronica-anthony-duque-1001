@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="]e8CfC^E}GAa%#}r{n*!" x="442" y="-102"><statement name="HANDLER"><block type="basic_show_icon" id="bUgZ,P4R#`%5MJ04X=K;"><field name="i">IconNames.Happy</field><next><block type="device_pause" id="iDyoNn}p}v$)Elc^ylqM"><value name="pause"><shadow type="timePicker" id="Uobqi:r|4oMZ(r^40JcQ"><field name="ms">1000</field></shadow></value><next><block type="device_print_message" id="+WF(!ys2=[,f2TG:8/}4"><value name="text"><shadow type="text" id="S#:UNZ[ZD}Xq07m}5+fZ"><field name="TEXT">te extraño</field></shadow></value><next><block type="device_pause" id="fFPi.iV*HEpG!MrZ;wKE"><value name="pause"><shadow type="timePicker" id=".n_^A/540k`PbHe#5Ryo"><field name="ms">100</field></shadow></value><next><block type="basic_show_icon" id="{mVTw^1*+;3qy!rMofbQ"><field name="i">IconNames.Sad</field><next><block type="device_pause" id="Wzt-/+/{eY2P#:jRfC|q"><value name="pause"><shadow type="timePicker" id="0J3Dh2=i%MnlY(]yv%KQ"><field name="ms">1000</field></shadow></value><next><block type="device_clear_display" id="nF^FnJ:fV2S;Rn/+2y5u"></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="$z`(-2{,^:5.t)_0;]*3" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="basic_show_icon" id="EwA-h)))-h)GP6LW;b,9"><field name="i">IconNames.Asleep</field><next><block type="device_pause" id="?1T3S~T]~u{u?yYjd1[3"><value name="pause"><shadow type="timePicker" id="/M#rKdW~D}phVUWkj!$$"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="%yT7LJ,)_4/W[HWp6T`7"><field name="i">IconNames.Happy</field><next><block type="device_print_message" id="(E~YRVTx^fuEd3MsVB68"><value name="text"><shadow type="text" id="W9%f%Xy.P)Z_jmSxV*ap"><field name="TEXT">estuvo muy buena la siesta</field></shadow></value><next><block type="device_clear_display" id=")o-6n5=Y*uP2CwtdKv4h"></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="Gmi^5emUV#)QPSMBU.D2" x="362" y="393"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="basic_show_icon" id="IoqxciqiSlqyo(]u1WqQ"><field name="i">IconNames.Happy</field><next><block type="basic_show_icon" id="/m,InwBdLfqjck6W|.-1"><field name="i">IconNames.Asleep</field><next><block type="device_show_leds" id=")`rHEbu.mYonQMHQNg6~"><field name="LEDS">`
+        # # # # # 
+        . . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="[vBpeEnzn`Jj]j)DNpn)"><field name="LEDS">`
+        # # # # # 
+        . . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="!-J_Cg+_3oX`=l.k.Nu$"><field name="LEDS">`
+        # # # # # 
+        . . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="/=-[#K:o789s:Qn,lXu^"><field name="LEDS">`
+        # # # # # 
+        . . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # #
+        `</field><next><block type="device_clear_display" id="M%lFfbfG8J,6l05P.${5"></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
